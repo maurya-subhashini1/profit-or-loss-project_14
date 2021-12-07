@@ -8,3 +8,7 @@
 +
     + tell it in percentage
     + tell it in absolute too
+- I used :
+- js
+- Html
+- css
